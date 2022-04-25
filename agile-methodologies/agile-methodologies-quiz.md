@@ -676,3 +676,14 @@
 - [ ] Ask the team if they would like to do something recreational together and offer to organize it.
 - [ ] Tell the team that you see this as a problem and ask them to solve it.
 - [ ] Since no one has come to you with a complaint, assume that the limited interaction works for everyone.
+
+### Q95. The team has an incomplete story at the end of the sprint and wants to claim partial credit for the work completed. What should you do?The team has an incomplete story at the end of the sprint and wants to claim partial credit for the work completed. What should you do?
+
+Ask the Product Owner to accept the story with the promise that the team will complete it in the next sprint.Ask the Product Owner to accept the story with the promise that the team will complete it in the next sprint.
+
+Ask them to slice the story to reflect the work done and the work to be done.Ask them to slice the story to reflect the work done and the work to be done.
+
+Explain that, in Agile, working software is the primary measure of progress. Then help the team identify the lesson to be learned from the experience.Explain that, in Agile, working software is the primary measure of progress. Then help the team identify the lesson to be learned from the experience.
+
+Ask the Product Owner to revise the acceptance criteria so it can be accepted and counted.Ask the Product Owner to revise the acceptance criteria so it can be accepted and counted.
+
