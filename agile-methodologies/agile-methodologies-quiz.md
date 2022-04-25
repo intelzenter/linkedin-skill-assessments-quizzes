@@ -676,3 +676,14 @@
 - [ ] Ask the team if they would like to do something recreational together and offer to organize it.
 - [ ] Tell the team that you see this as a problem and ask them to solve it.
 - [ ] Since no one has come to you with a complaint, assume that the limited interaction works for everyone.
+
+### Q95. Which of these traits is most important for being an effective Team Facilitator?Which of these traits is most important for being an effective Team Facilitator?
+
+ being self-awarebeing self-aware
+
+ being someone who takes chargebeing someone who takes charge
+
+ being extrovertedbeing extroverted
+
+ having a type A personalityhaving a type A personality
+
